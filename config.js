@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94701363708' //Nomor Bot
-global.nomorown = '94725058757' //Nomor Owner
-global.namebot = 'ˣˣShana Girl 🙃💞' //Nama Bot
-global.nameown = 'Yeshan Basnayake' // Nama Owner
+global.nomorbot = '94761105459' //Nomor Bot
+global.nomorown = '94761105459' //Nomor Owner
+global.namebot = ' Vihanga_MD 🙃💞' //Nama Bot
+global.nameown = 'Vihanga Methsara' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,7 +65,7 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94725058757', 'Yeshan🎐', true] //Replace your number with your name
+  ['94761105459', 'Vihanga🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,7 +102,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ˣˣShana-Girl-🙃💞- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Vihanga_Official-🙃💞- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
 global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
@@ -175,9 +175,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ˣˣShana Girl 🙃💞'
+global.stickpack = 'Vihanga MD 🙃💞'
 global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Yeshan MD ☃️♥️'
+global.packname = 'Vihanga MD ☃️♥️'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
 
 global.multiplier = 38 // The higher, The harder levelup
